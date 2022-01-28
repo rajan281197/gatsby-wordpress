@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/show-post-by-status",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDoyOTM=","slug":"show-post-by-status","title":"Show Post By Status","content":null,"uri":"/show-post-by-status/"}]}},"pageContext":{"slug":"show-post-by-status"}},
+    "staticQueryHashes": ["3649515864"]}

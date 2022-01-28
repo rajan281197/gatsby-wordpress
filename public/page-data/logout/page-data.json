@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/logout",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDoyNTc=","slug":"logout","title":"Logout","content":null,"uri":"/logout/"}]}},"pageContext":{"slug":"logout"}},
+    "staticQueryHashes": ["3649515864"]}

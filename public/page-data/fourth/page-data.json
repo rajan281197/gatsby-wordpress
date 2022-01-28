@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/fourth",
+    "result": {"data":{"allWpPost":{"edges":[{"node":{"id":"cG9zdDo3Mg==","title":"Fourth","content":"\n<p>fourth</p>\n","excerpt":"<p>fourth</p>\n","slug":"fourth","date":"October 04, 2021","featuredImage":null}}]}},"pageContext":{"slug":"fourth"}},
+    "staticQueryHashes": ["3649515864"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/custom-pagination",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDo0MDE=","slug":"custom-pagination","title":"Custom Pagination","content":null,"uri":"/custom-pagination/"}]}},"pageContext":{"slug":"custom-pagination"}},
+    "staticQueryHashes": ["3649515864"]}

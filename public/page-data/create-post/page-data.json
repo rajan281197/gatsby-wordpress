@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/create-post",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDo2NA==","slug":"create-post","title":"Create Post","content":null,"uri":"/create-post/"}]}},"pageContext":{"slug":"create-post"}},
+    "staticQueryHashes": ["3649515864"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tourscategorypackage-js",
+    "path": "/tours-categories/customized-tour",
+    "result": {"data":{"allWpTourpackage":{"totalCount":1,"nodes":[{"id":"cG9zdDoxMDky","title":"Shimla Manali FIT Package","slug":"shimla-manali-fit-package","featuredImage":{"node":{"sourceUrl":"http://localhost/postapproval/wp-content/uploads/2022/01/637732754434390926.jpg"}},"tourPackageDetails":{"cities":"2","drop":"DELHI","pickup":"DELHI","price":"₹ 17,500/- *","destinations":"Shimla (2N) | Manali (3N)","inclusions":"Hotels, Meals ,Sightseen","tripLength":"6","gid":"HPFIT003","tourType":"CUSTOMIZED TOUR"},"tourTypes":{"nodes":[{"name":"Customized Tour"}]}}]}},"pageContext":{"slug":"customized-tour"}},
+    "staticQueryHashes": ["3649515864"]}

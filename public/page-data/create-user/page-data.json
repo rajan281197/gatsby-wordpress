@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/create-user",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDoxNjg=","slug":"create-user","title":"Create User","content":null,"uri":"/create-user/"}]}},"pageContext":{"slug":"create-user"}},
+    "staticQueryHashes": ["3649515864"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-tours-categories-js",
+    "path": "/tours-categories/",
+    "result": {"data":{"allWpTourType":{"nodes":[{"name":"Couple Tour","slug":"couple-tour","uri":"/tours_type/couple-tour/","link":"/tours_type/couple-tour/","id":"dGVybTozMDE="},{"name":"Customized Tour","slug":"customized-tour","uri":"/tours_type/customized-tour/","link":"/tours_type/customized-tour/","id":"dGVybToyOTc="},{"name":"Family Tour","slug":"family-tour","uri":"/tours_type/family-tour/","link":"/tours_type/family-tour/","id":"dGVybTozMDQ="}]}},"pageContext":{}},
+    "staticQueryHashes": ["3649515864"]}

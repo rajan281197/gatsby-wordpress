@@ -1,0 +1,154 @@
+.site-footer {
+    background: #222222;
+    padding: 80px 0 17px;
+    margin: 60px 0 0;
+}
+
+.footer-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.foot-col-sm {
+    width: 40%;
+}
+
+.white {
+    color: white;
+}
+.foot-logo {
+    max-width: 180px;
+}
+
+.map {
+    height: 25px;
+    width: 20px;
+    margin-right: 10px;
+}
+
+.fot-about {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 17px;
+    color: #C4C4C4;
+    margin: 20px 0 0 0;
+}
+
+.mt-20 {
+    margin-top: 20px !important;
+}
+
+.foot-col-xl {
+    padding-left: 70px;
+    width: 60%;
+}
+
+.elebr {
+    margin: 0 0 30px;
+}
+
+.elebr h2 {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    text-transform: capitalize;
+    color: #F67700;
+}
+
+.elebr p {
+    font-weight: 500;
+    font-size: 14px;
+    margin: 0;
+    line-height: 21px;
+    color: #DDDDDD;
+}
+
+.quck-links {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.foot-nav {
+    width: 29%;
+    margin: 0 22px 0 0;
+}
+
+h2.wgt-titel {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 124.5%;
+    color: #FFFFFF;
+    margin: 0 0 20px;
+}
+
+h2.wgt-titel {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 124.5%;
+    color: #FFFFFF;
+    margin: 0 0 20px;
+}
+
+dl, ol, ul {
+    padding: 0 !important;
+}
+
+.foot-nav ul li {
+    list-style: none;
+    margin: 0 0 11px;
+}
+
+.foot-nav ul li a {
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 17px;
+    color: #C4C4C4;
+}
+
+.foot-nav:last-child {
+    margin-right: 0;
+}
+
+.footer-btm {
+    border-top: 1px solid #484848;
+    padding: 25px 0 0 0;
+    margin: 30px 0 0 0;
+}
+
+.container{
+    max-width: 1140px;
+}
+
+.copyrt {
+    font-size: 13px;
+    line-height: 124.5%;
+    color: #C4C4C4;
+}
+
+.white {
+    color: white;
+}
+
+.copyrt a {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 124.5%;
+    color: #C4C4C4;
+    margin: 0 30px;
+}
+
+.col-md-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+}
+
+.foot-social {
+    text-align: right;
+}
+
+.foot-social a {
+    color: #C4C4C4;
+    font-size: 23px;
+    margin: 0 0 0 15px;
+}
