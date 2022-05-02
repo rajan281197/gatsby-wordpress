@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/en/my-account-page",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDoxNDM5","slug":"my-account-page","title":"my account page","content":"\n<pre class=\"wp-block-code\"><code>&lt;?php echo do_shortcode('&#91;lsphe-header]' ); ?></code></pre>\n","uri":"/my-account-page/"}]}},"pageContext":{"slug":"my-account-page","language":"en","intl":{"language":"en","languages":["pt","en"],"messages":{"About Us":"About Us","Home":"Home","FAQ":"FAQ","Our story":"Our story","Contact Us":"Contact Us","Tour Packages":"Tour Packages","Menu Lists":"Menu Lists"},"routed":true,"originalPath":"/my-account-page","redirect":false,"defaultLanguage":"en"}}},
+    "staticQueryHashes": ["3649515864"]}

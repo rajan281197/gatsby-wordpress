@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/en/fourth",
+    "result": {"data":{"allWpPost":{"edges":[{"node":{"id":"cG9zdDo3Mg==","title":"Fourth","content":"\n<p>fourth</p>\n","excerpt":"<p>fourth</p>\n","slug":"fourth","date":"October 04, 2021","featuredImage":null}}]}},"pageContext":{"slug":"fourth","language":"en","intl":{"language":"en","languages":["pt","en"],"messages":{"About Us":"About Us","Home":"Home","FAQ":"FAQ","Our story":"Our story","Contact Us":"Contact Us","Tour Packages":"Tour Packages","Menu Lists":"Menu Lists"},"routed":true,"originalPath":"/fourth","redirect":false,"defaultLanguage":"en"}}},
+    "staticQueryHashes": ["3649515864"]}

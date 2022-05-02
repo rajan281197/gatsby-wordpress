@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/pt/backrey-page",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDoxNDU3","slug":"backrey-page","title":"Backrey Page","content":"<p>[vc_row][vc_column][vc_images_carousel images=&#8221;1093,1083,1056&#8243;][/vc_column][/vc_row]</p>\n","uri":"/backrey-page/"}]}},"pageContext":{"slug":"backrey-page","language":"pt","intl":{"language":"pt","languages":["pt","en"],"messages":{"About Us":"Sobre nós","Home":"Casa","FAQ":"Perguntas frequentes","Our story":"Nossa história","Contact Us":"Entre em contato conosco","Tour Packages":"Pacotes de viagem","Menu Lists":"Listas de menus"},"routed":true,"originalPath":"/backrey-page","redirect":false,"defaultLanguage":"en"}}},
+    "staticQueryHashes": ["3649515864"]}

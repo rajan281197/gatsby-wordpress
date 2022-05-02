@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/en/front-form",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDoxMQ==","slug":"front-form","title":"Front Form","content":null,"uri":"/front-form/"}]}},"pageContext":{"slug":"front-form","language":"en","intl":{"language":"en","languages":["pt","en"],"messages":{"About Us":"About Us","Home":"Home","FAQ":"FAQ","Our story":"Our story","Contact Us":"Contact Us","Tour Packages":"Tour Packages","Menu Lists":"Menu Lists"},"routed":true,"originalPath":"/front-form","redirect":false,"defaultLanguage":"en"}}},
+    "staticQueryHashes": ["3649515864"]}

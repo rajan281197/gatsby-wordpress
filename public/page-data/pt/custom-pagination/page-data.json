@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/pt/custom-pagination",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDo0MDE=","slug":"custom-pagination","title":"Custom Pagination","content":null,"uri":"/custom-pagination/"}]}},"pageContext":{"slug":"custom-pagination","language":"pt","intl":{"language":"pt","languages":["pt","en"],"messages":{"About Us":"Sobre nós","Home":"Casa","FAQ":"Perguntas frequentes","Our story":"Nossa história","Contact Us":"Entre em contato conosco","Tour Packages":"Pacotes de viagem","Menu Lists":"Listas de menus"},"routed":true,"originalPath":"/custom-pagination","redirect":false,"defaultLanguage":"en"}}},
+    "staticQueryHashes": ["3649515864"]}

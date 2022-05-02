@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/en/mass-calculation",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDozNjU=","slug":"mass-calculation","title":"Mass Calculation","content":null,"uri":"/mass-calculation/"}]}},"pageContext":{"slug":"mass-calculation","language":"en","intl":{"language":"en","languages":["pt","en"],"messages":{"About Us":"About Us","Home":"Home","FAQ":"FAQ","Our story":"Our story","Contact Us":"Contact Us","Tour Packages":"Tour Packages","Menu Lists":"Menu Lists"},"routed":true,"originalPath":"/mass-calculation","redirect":false,"defaultLanguage":"en"}}},
+    "staticQueryHashes": ["3649515864"]}

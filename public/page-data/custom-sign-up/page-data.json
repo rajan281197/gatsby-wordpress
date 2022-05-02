@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-menulistdetail-js",
     "path": "/custom-sign-up",
-    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDoyNDY=","slug":"custom-sign-up","title":"Custom Sign Up","content":null,"uri":"/custom-sign-up/"}]}},"pageContext":{"slug":"custom-sign-up"}},
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDoyNDY=","slug":"custom-sign-up","title":"Custom Sign Up","content":null,"uri":"/custom-sign-up/"}]}},"pageContext":{"slug":"custom-sign-up","language":"en","intl":{"language":"en","languages":["pt","en"],"messages":{"About Us":"About Us","Home":"Home","FAQ":"FAQ","Our story":"Our story","Contact Us":"Contact Us","Tour Packages":"Tour Packages","Menu Lists":"Menu Lists"},"routed":false,"originalPath":"/custom-sign-up","redirect":false,"defaultLanguage":"en"}}},
     "staticQueryHashes": ["3649515864"]}

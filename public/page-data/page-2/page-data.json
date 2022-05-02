@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-page-2-js",
     "path": "/page-2/",
-    "result": {"pageContext":{}},
+    "result": {"pageContext":{"language":"en","intl":{"language":"en","languages":["pt","en"],"messages":{"About Us":"About Us","Home":"Home","FAQ":"FAQ","Our story":"Our story","Contact Us":"Contact Us","Tour Packages":"Tour Packages","Menu Lists":"Menu Lists"},"routed":false,"originalPath":"/page-2/","redirect":false,"defaultLanguage":"en"}}},
     "staticQueryHashes": ["3649515864","63159454"]}

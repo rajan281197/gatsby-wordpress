@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/pt/create-user",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDoxNjg=","slug":"create-user","title":"Create User","content":null,"uri":"/create-user/"}]}},"pageContext":{"slug":"create-user","language":"pt","intl":{"language":"pt","languages":["pt","en"],"messages":{"About Us":"Sobre nós","Home":"Casa","FAQ":"Perguntas frequentes","Our story":"Nossa história","Contact Us":"Entre em contato conosco","Tour Packages":"Pacotes de viagem","Menu Lists":"Listas de menus"},"routed":true,"originalPath":"/create-user","redirect":false,"defaultLanguage":"en"}}},
+    "staticQueryHashes": ["3649515864"]}

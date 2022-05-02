@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[113],{1350:function(e,t,a){a.r(t);var l=a(7294),n=a(5444),r=a(5809);t.default=function(e){var t=e.data;return l.createElement(r.Z,{pageTitle:""},l.createElement("ul",null,t.allWpTourType.nodes.map((function(e){return l.createElement("div",{key:e.slug},l.createElement(n.Link,{to:e.slug},l.createElement("p",null,e.name)))}))))}}}]);
+//# sourceMappingURL=component---src-pages-tours-categories-js-2f4c62ed04b3b1b69d9d.js.map

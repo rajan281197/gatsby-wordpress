@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/third",
-    "result": {"data":{"allWpPost":{"edges":[{"node":{"id":"cG9zdDo3MA==","title":"70 title","content":"<p>70 content</p>\n","excerpt":"<p>70 content</p>\n","slug":"third","date":"October 04, 2021","featuredImage":null}}]}},"pageContext":{"slug":"third"}},
+    "result": {"data":{"allWpPost":{"edges":[{"node":{"id":"cG9zdDo3MA==","title":"70 title","content":"<p>70 content</p>\n","excerpt":"<p>70 content</p>\n","slug":"third","date":"October 04, 2021","featuredImage":null}}]}},"pageContext":{"slug":"third","language":"en","intl":{"language":"en","languages":["pt","en"],"messages":{"About Us":"About Us","Home":"Home","FAQ":"FAQ","Our story":"Our story","Contact Us":"Contact Us","Tour Packages":"Tour Packages","Menu Lists":"Menu Lists"},"routed":false,"originalPath":"/third","redirect":false,"defaultLanguage":"en"}}},
     "staticQueryHashes": ["3649515864"]}

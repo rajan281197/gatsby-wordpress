@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/pt/create-post",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDo2NA==","slug":"create-post","title":"Create Post","content":null,"uri":"/create-post/"}]}},"pageContext":{"slug":"create-post","language":"pt","intl":{"language":"pt","languages":["pt","en"],"messages":{"About Us":"Sobre nós","Home":"Casa","FAQ":"Perguntas frequentes","Our story":"Nossa história","Contact Us":"Entre em contato conosco","Tour Packages":"Pacotes de viagem","Menu Lists":"Listas de menus"},"routed":true,"originalPath":"/create-post","redirect":false,"defaultLanguage":"en"}}},
+    "staticQueryHashes": ["3649515864"]}

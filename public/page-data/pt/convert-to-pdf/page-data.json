@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/pt/convert-to-pdf",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDoxNTE=","slug":"convert-to-pdf","title":"cron post insert","content":null,"uri":"/convert-to-pdf/"}]}},"pageContext":{"slug":"convert-to-pdf","language":"pt","intl":{"language":"pt","languages":["pt","en"],"messages":{"About Us":"Sobre nós","Home":"Casa","FAQ":"Perguntas frequentes","Our story":"Nossa história","Contact Us":"Entre em contato conosco","Tour Packages":"Pacotes de viagem","Menu Lists":"Listas de menus"},"routed":true,"originalPath":"/convert-to-pdf","redirect":false,"defaultLanguage":"en"}}},
+    "staticQueryHashes": ["3649515864"]}

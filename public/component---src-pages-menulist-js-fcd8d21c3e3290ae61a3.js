@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[436],{9938:function(e,t,n){n.r(t);var a=n(7294),r=n(5444),l=n(5809);n(3751);t.default=function(e){var t=e.data;return a.createElement(l.Z,{pageTitle:"Menu Lists"},a.createElement("ul",null,t.wpMenu.menuItems.nodes.map((function(e){return a.createElement("div",{key:e.order},a.createElement(r.Link,{to:e.url},a.createElement("p",null,e.label)))}))))}}}]);
+//# sourceMappingURL=component---src-pages-menulist-js-fcd8d21c3e3290ae61a3.js.map

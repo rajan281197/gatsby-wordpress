@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/pt/debit-credit",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDo5Njc=","slug":"debit-credit","title":"Debit & Credit","content":null,"uri":"/debit-credit/"}]}},"pageContext":{"slug":"debit-credit","language":"pt","intl":{"language":"pt","languages":["pt","en"],"messages":{"About Us":"Sobre nós","Home":"Casa","FAQ":"Perguntas frequentes","Our story":"Nossa história","Contact Us":"Entre em contato conosco","Tour Packages":"Pacotes de viagem","Menu Lists":"Listas de menus"},"routed":true,"originalPath":"/debit-credit","redirect":false,"defaultLanguage":"en"}}},
+    "staticQueryHashes": ["3649515864"]}

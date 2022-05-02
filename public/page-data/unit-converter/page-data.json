@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-menulistdetail-js",
     "path": "/unit-converter",
-    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDozNTg=","slug":"unit-converter","title":"Unit Converter","content":null,"uri":"/unit-converter/"}]}},"pageContext":{"slug":"unit-converter"}},
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDozNTg=","slug":"unit-converter","title":"Unit Converter","content":null,"uri":"/unit-converter/"}]}},"pageContext":{"slug":"unit-converter","language":"en","intl":{"language":"en","languages":["pt","en"],"messages":{"About Us":"About Us","Home":"Home","FAQ":"FAQ","Our story":"Our story","Contact Us":"Contact Us","Tour Packages":"Tour Packages","Menu Lists":"Menu Lists"},"routed":false,"originalPath":"/unit-converter","redirect":false,"defaultLanguage":"en"}}},
     "staticQueryHashes": ["3649515864"]}

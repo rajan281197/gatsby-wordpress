@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/en/custom-grid-layout",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDoyODg=","slug":"custom-grid-layout","title":"Custom Grid Layout","content":null,"uri":"/custom-grid-layout/"}]}},"pageContext":{"slug":"custom-grid-layout","language":"en","intl":{"language":"en","languages":["pt","en"],"messages":{"About Us":"About Us","Home":"Home","FAQ":"FAQ","Our story":"Our story","Contact Us":"Contact Us","Tour Packages":"Tour Packages","Menu Lists":"Menu Lists"},"routed":true,"originalPath":"/custom-grid-layout","redirect":false,"defaultLanguage":"en"}}},
+    "staticQueryHashes": ["3649515864"]}

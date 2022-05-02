@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-menulistdetail-js",
     "path": "/generate-send-pdf",
-    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDozMjQ=","slug":"generate-send-pdf","title":"Generate & send pdf","content":null,"uri":"/generate-send-pdf/"}]}},"pageContext":{"slug":"generate-send-pdf"}},
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDozMjQ=","slug":"generate-send-pdf","title":"Generate & send pdf","content":null,"uri":"/generate-send-pdf/"}]}},"pageContext":{"slug":"generate-send-pdf","language":"en","intl":{"language":"en","languages":["pt","en"],"messages":{"About Us":"About Us","Home":"Home","FAQ":"FAQ","Our story":"Our story","Contact Us":"Contact Us","Tour Packages":"Tour Packages","Menu Lists":"Menu Lists"},"routed":false,"originalPath":"/generate-send-pdf","redirect":false,"defaultLanguage":"en"}}},
     "staticQueryHashes": ["3649515864"]}

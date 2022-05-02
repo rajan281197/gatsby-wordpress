@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/pt/count-day-betweeen-two-dates",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDozNjE=","slug":"count-day-betweeen-two-dates","title":"Count Day Between Two Dates","content":null,"uri":"/count-day-betweeen-two-dates/"}]}},"pageContext":{"slug":"count-day-betweeen-two-dates","language":"pt","intl":{"language":"pt","languages":["pt","en"],"messages":{"About Us":"Sobre nós","Home":"Casa","FAQ":"Perguntas frequentes","Our story":"Nossa história","Contact Us":"Entre em contato conosco","Tour Packages":"Pacotes de viagem","Menu Lists":"Listas de menus"},"routed":true,"originalPath":"/count-day-betweeen-two-dates","redirect":false,"defaultLanguage":"en"}}},
+    "staticQueryHashes": ["3649515864"]}

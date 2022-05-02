@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-menulistdetail-js",
     "path": "/debit-credit",
-    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDo5Njc=","slug":"debit-credit","title":"Debit & Credit","content":null,"uri":"/debit-credit/"}]}},"pageContext":{"slug":"debit-credit"}},
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDo5Njc=","slug":"debit-credit","title":"Debit & Credit","content":null,"uri":"/debit-credit/"}]}},"pageContext":{"slug":"debit-credit","language":"en","intl":{"language":"en","languages":["pt","en"],"messages":{"About Us":"About Us","Home":"Home","FAQ":"FAQ","Our story":"Our story","Contact Us":"Contact Us","Tour Packages":"Tour Packages","Menu Lists":"Menu Lists"},"routed":false,"originalPath":"/debit-credit","redirect":false,"defaultLanguage":"en"}}},
     "staticQueryHashes": ["3649515864"]}

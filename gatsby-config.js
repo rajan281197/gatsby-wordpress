@@ -15,12 +15,14 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+
     {
       resolve: "gatsby-source-wordpress",
       options: {
         url: "http://localhost/postapproval/graphql",
       },
     },
+
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
@@ -37,6 +39,25 @@ module.exports = {
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
+    
+    {
+      resolve: `gatsby-plugin-intl`,
+      options: {
+        // Directory with the strings JSON
+        path: `${__dirname}/src/intl`,
+        // Supported languages
+        languages: [`pt`, `en`],
+        // Default site language
+        defaultLanguage: `en`,
+        // Redirects to `/pt` in the route `/`
+        redirect: false,
+      },
+    },
+
+    {
+      resolve: `gatsby-plugin-sass`,
+    },
+    
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

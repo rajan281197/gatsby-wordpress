@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/pt/show-post-between-date",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDozMjA=","slug":"show-post-between-date","title":"show post between date","content":null,"uri":"/show-post-between-date/"}]}},"pageContext":{"slug":"show-post-between-date","language":"pt","intl":{"language":"pt","languages":["pt","en"],"messages":{"About Us":"Sobre nós","Home":"Casa","FAQ":"Perguntas frequentes","Our story":"Nossa história","Contact Us":"Entre em contato conosco","Tour Packages":"Pacotes de viagem","Menu Lists":"Listas de menus"},"routed":true,"originalPath":"/show-post-between-date","redirect":false,"defaultLanguage":"en"}}},
+    "staticQueryHashes": ["3649515864"]}

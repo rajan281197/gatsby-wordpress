@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-menulistdetail-js",
     "path": "/jpgraph",
-    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDo0MTk=","slug":"jpgraph","title":"JpGraph","content":null,"uri":"/jpgraph/"}]}},"pageContext":{"slug":"jpgraph"}},
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDo0MTk=","slug":"jpgraph","title":"JpGraph","content":null,"uri":"/jpgraph/"}]}},"pageContext":{"slug":"jpgraph","language":"en","intl":{"language":"en","languages":["pt","en"],"messages":{"About Us":"About Us","Home":"Home","FAQ":"FAQ","Our story":"Our story","Contact Us":"Contact Us","Tour Packages":"Tour Packages","Menu Lists":"Menu Lists"},"routed":false,"originalPath":"/jpgraph","redirect":false,"defaultLanguage":"en"}}},
     "staticQueryHashes": ["3649515864"]}

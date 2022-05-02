@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-menulistdetail-js",
+    "path": "/pt/fd-calculations",
+    "result": {"data":{"allWpPage":{"nodes":[{"id":"cG9zdDo4OTI=","slug":"fd-calculations","title":"FD calculations","content":null,"uri":"/fd-calculations/"}]}},"pageContext":{"slug":"fd-calculations","language":"pt","intl":{"language":"pt","languages":["pt","en"],"messages":{"About Us":"Sobre nós","Home":"Casa","FAQ":"Perguntas frequentes","Our story":"Nossa história","Contact Us":"Entre em contato conosco","Tour Packages":"Pacotes de viagem","Menu Lists":"Listas de menus"},"routed":true,"originalPath":"/fd-calculations","redirect":false,"defaultLanguage":"en"}}},
+    "staticQueryHashes": ["3649515864"]}

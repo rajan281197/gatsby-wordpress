@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-using-typescript-tsx",
+    "path": "/en/using-typescript/",
+    "result": {"data":{"site":{"buildTime":"2022-02-17 01:04 pm UTC"}},"pageContext":{"language":"en","intl":{"language":"en","languages":["pt","en"],"messages":{"About Us":"About Us","Home":"Home","FAQ":"FAQ","Our story":"Our story","Contact Us":"Contact Us","Tour Packages":"Tour Packages","Menu Lists":"Menu Lists"},"routed":true,"originalPath":"/using-typescript/","redirect":false,"defaultLanguage":"en"}}},
+    "staticQueryHashes": ["3649515864","63159454"]}
